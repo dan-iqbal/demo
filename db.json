@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "TOKO A": [
+        {
+            "NAMA" : "OLSHOP BABY",
+            "OWNER" : "JOKO",
+            "PRODUK" : [
+                {
+                    "NAMAPRODUK" : "DIAPERS",
+                    "STOCK" : 150,
+                    "HARGA" : 30000
+                },
+                {
+                    "NAMAPRODUK" : "SUSU",
+                    "STOCK" : 50,
+                    "HARGA" : 80000
+                },
+                {
+                    "NAMAPRODUK" : "BAJU BAYI",
+                    "STOCK" : 30,
+                    "HARGA" : 50000
+                }
+            ]
+        }
+    ]
 }
