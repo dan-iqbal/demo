@@ -1,23 +1,30 @@
 {
-    "TOKO": [
+    "MAHASISWA": [
         {
-            "NAMA" : "OLSHOP BABY",
-            "OWNER" : "JOKO",
-            "PRODUK" : [
+            "NIM": "185150707111003",
+            "NAMA": "Fauzidan Iqbal Ghiffari",
+            "ANGKATAN": "2018",
+            "KELAS": "A",
+            "MATAKULIAH": [
                 {
-                    "NAMAPRODUK" : "DIAPERS",
-                    "STOCK" : 150,
-                    "HARGA" : 30000
+                    "KODE": "FIK150010",
+                    "NAMA_KUL": "Pemograman Dasar",
+                    "SKS": "5"
                 },
                 {
-                    "NAMAPRODUK" : "SUSU",
-                    "STOCK" : 50,
-                    "HARGA" : 80000
+                    "KODE": "JSI150041",
+                    "NAMA_KUL": "Statistika",
+                    "SKS": "3"
                 },
                 {
-                    "NAMAPRODUK" : "BAJU BAYI",
-                    "STOCK" : 30,
-                    "HARGA" : 50000
+                    "KODE": "UBU4008",
+                    "NAMA_KUL": "Bahasa Inggris",
+                    "SKS": "2"
+                },
+                {
+                    "KODE": "MPK400140",
+                    "NAMA_KUL": "Pendidikan Agama",
+                    "SKS": "2"
                 }
             ]
         }
