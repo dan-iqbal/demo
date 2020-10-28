@@ -1,0 +1,32 @@
+{
+    "MAHASISWA": [
+        {
+            "NIM": "185150707111003",
+            "NAMA": "Fauzidan Iqbal Ghiffari",
+            "ANGKATAN": "2018",
+            "KELAS": "A",
+            "MATAKULIAH": [
+                {
+                    "KODE": "FIK150010",
+                    "NAMA_KUL": "Pemograman Dasar",
+                    "SKS": "5"
+                },
+                {
+                    "KODE": "JSI150041",
+                    "NAMA_KUL": "Statistika",
+                    "SKS": "3"
+                },
+                {
+                    "KODE": "UBU4008",
+                    "NAMA_KUL": "Bahasa Inggris",
+                    "SKS": "2"
+                },
+                {
+                    "KODE": "MPK400140",
+                    "NAMA_KUL": "Pendidikan Agama",
+                    "SKS": "2"
+                }
+            ]
+        }
+    ]
+}
